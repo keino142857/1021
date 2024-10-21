@@ -2,3 +2,4 @@ pip install mysql-connector
 pip install Flask
 pip install
 12121
+2312e
